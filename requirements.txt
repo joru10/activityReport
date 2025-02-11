@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+pydantic
+# Include any additional libraries such as logging helpers or transcription tools.
